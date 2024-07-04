@@ -1,0 +1,76 @@
+.aside-nav li a{
+    color: #01a1ff;
+    font-weight: bold;
+}
+
+.aside-nav .special-a{
+    border-bottom: 1px solid #01a1ff;
+}
+
+.contact-map{
+    padding: 40px 20px 0;
+}
+
+#map{
+    margin: 20px 0 30px;
+}
+
+.contact-map{
+    overflow: hidden;
+}
+
+.contact-map form{
+    float: left;
+    width: 482px;
+    font-size: 16px;
+    line-height: 36px;
+}
+
+.contact-map input{
+    width: 230px;
+    height: 25px;
+    margin: 10px 0 10px 8px;
+}
+
+.contact-map form textarea{
+    width: 300px;
+    height: 130px;
+    resize: none;
+}
+
+.contact-area{
+    vertical-align: top;
+}
+
+.contact-map form input[type=submit]{
+    margin: 0 20px 0 48px;
+    width: 97px;
+    height: 30px;
+    background-color: #01a1ff;
+    color: white;
+}
+
+.contact-map form input[type=reset]{
+    margin: 0 20px 0 48px;
+    width: 97px;
+    height: 30px;
+    background-color: #01a1ff;
+    color: white;
+}
+
+.contact-map .contact-info{
+    float: right;
+    width: 370px;
+}
+
+.contact-info h2{
+    font-size: 20px;
+    color: #333;
+}
+
+.contact-map .contact-info ul li{
+    margin-top: 18px;
+    font-size: 18px;
+    color: #666;
+}
+

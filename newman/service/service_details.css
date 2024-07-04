@@ -1,0 +1,34 @@
+.crumbs-nav a:nth-child(2){
+    color: #999;
+}
+
+.about-content-title h3 span{
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #999;
+}
+
+.asq-nav{
+    margin: 0 47px 0 20px;
+}
+
+.asq-nav h2{
+    padding: 47px 0 47px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+.asq-nav strong{
+    font-size: 18px;
+    color: #333;
+    font-weight: bold;
+    text-indent: 2em;
+    display: block;
+}
+
+.asq-nav ol li{
+    color: #333;
+    margin-top: 20px;
+}
